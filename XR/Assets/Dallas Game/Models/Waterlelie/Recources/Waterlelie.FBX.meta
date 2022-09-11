@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 8f473b914fd4a774aabfcd76685f254d
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Blad
+  - first:
+      1: 100002
+    second: Blad 1
+  - first:
+      1: 100004
+    second: Blad 10
+  - first:
+      1: 100006
+    second: Blad 11
+  - first:
+      1: 100008
+    second: Blad 12
+  - first:
+      1: 100010
+    second: Blad 13
+  - first:
+      1: 100012
+    second: Blad 14
+  - first:
+      1: 100014
+    second: Blad 15
+  - first:
+      1: 100016
+    second: Blad 2
+  - first:
+      1: 100018
+    second: Blad 3
+  - first:
+      1: 100020
+    second: Blad 4
+  - first:
+      1: 100022
+    second: Blad 5
+  - first:
+      1: 100024
+    second: Blad 6
+  - first:
+      1: 100026
+    second: Blad 7
+  - first:
+      1: 100028
+    second: Blad 8
+  - first:
+      1: 100030
+    second: Blad 9
+  - first:
+      1: 100032
+    second: Bloem
+  - first:
+      1: 100034
+    second: Cylinder013
+  - first:
+      1: 100036
+    second: Cylinder014
+  - first:
+      1: 100038
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Blad
+  - first:
+      4: 400002
+    second: Blad 1
+  - first:
+      4: 400004
+    second: Blad 10
+  - first:
+      4: 400006
+    second: Blad 11
+  - first:
+      4: 400008
+    second: Blad 12
+  - first:
+      4: 400010
+    second: Blad 13
+  - first:
+      4: 400012
+    second: Blad 14
+  - first:
+      4: 400014
+    second: Blad 15
+  - first:
+      4: 400016
+    second: Blad 2
+  - first:
+      4: 400018
+    second: Blad 3
+  - first:
+      4: 400020
+    second: Blad 4
+  - first:
+      4: 400022
+    second: Blad 5
+  - first:
+      4: 400024
+    second: Blad 6
+  - first:
+      4: 400026
+    second: Blad 7
+  - first:
+      4: 400028
+    second: Blad 8
+  - first:
+      4: 400030
+    second: Blad 9
+  - first:
+      4: 400032
+    second: Bloem
+  - first:
+      4: 400034
+    second: Cylinder013
+  - first:
+      4: 400036
+    second: Cylinder014
+  - first:
+      4: 400038
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: 02 - Default
+  - first:
+      21: 2100002
+    second: 01 - Default
+  - first:
+      21: 2100004
+    second: 03 - Default
+  - first:
+      23: 2300000
+    second: Bloem
+  - first:
+      23: 2300002
+    second: Cylinder013
+  - first:
+      23: 2300004
+    second: Cylinder014
+  - first:
+      33: 3300000
+    second: Bloem
+  - first:
+      33: 3300002
+    second: Cylinder013
+  - first:
+      33: 3300004
+    second: Cylinder014
+  - first:
+      43: 4300000
+    second: Bloem
+  - first:
+      43: 4300002
+    second: Blad
+  - first:
+      43: 4300004
+    second: Blad
+  - first:
+      43: 4300006
+    second: Blad
+  - first:
+      43: 4300008
+    second: Blad
+  - first:
+      43: 4300010
+    second: Blad
+  - first:
+      43: 4300012
+    second: Blad
+  - first:
+      43: 4300014
+    second: Blad
+  - first:
+      43: 4300016
+    second: Blad
+  - first:
+      43: 4300018
+    second: Blad
+  - first:
+      43: 4300020
+    second: Blad
+  - first:
+      43: 4300022
+    second: Blad
+  - first:
+      43: 4300024
+    second: Blad
+  - first:
+      43: 4300026
+    second: Blad
+  - first:
+      43: 4300028
+    second: Blad
+  - first:
+      43: 4300030
+    second: Blad
+  - first:
+      43: 4300032
+    second: Blad
+  - first:
+      43: 4300034
+    second: Cylinder013
+  - first:
+      43: 4300036
+    second: Cylinder014
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Blad
+  - first:
+      137: 13700002
+    second: Blad 1
+  - first:
+      137: 13700004
+    second: Blad 10
+  - first:
+      137: 13700006
+    second: Blad 11
+  - first:
+      137: 13700008
+    second: Blad 12
+  - first:
+      137: 13700010
+    second: Blad 13
+  - first:
+      137: 13700012
+    second: Blad 14
+  - first:
+      137: 13700014
+    second: Blad 15
+  - first:
+      137: 13700016
+    second: Blad 2
+  - first:
+      137: 13700018
+    second: Blad 3
+  - first:
+      137: 13700020
+    second: Blad 4
+  - first:
+      137: 13700022
+    second: Blad 5
+  - first:
+      137: 13700024
+    second: Blad 6
+  - first:
+      137: 13700026
+    second: Blad 7
+  - first:
+      137: 13700028
+    second: Blad 8
+  - first:
+      137: 13700030
+    second: Blad 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: a01d8d47174cbf64fa21ee2105491d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: fbbbb69f29599ee4a8d4e838ad8bcc40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 99dffdf5f3c26f04e8da5ebd5ff19ac7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
