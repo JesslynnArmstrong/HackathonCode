@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "cf1b9df9-1502-479d-ac66-af58285bcddc",
+    "appType": "app",
+    "appDisplayName": "Heart",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#f44336",
+    "requestedPermissions": [
+      "access_activity",
+      "access_internet",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "HeartApp"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

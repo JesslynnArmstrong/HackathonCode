@@ -1,0 +1,14 @@
+<svg id="button-1">  
+   <svg class="horizontal-pad application-fill">
+      <rect id="topbar" class="stripe" /> 
+   
+      <!-- Data -->
+      <image class="heart-icon application-fill" />
+      <text id="hrm-data" class="sensor-data">---</text>
+      <text id="hrm-label" class="sensor-label">bpm</text>
+
+   
+      <rect id="bottombar" class="stripe" />
+      
+  </svg>
+</svg>
